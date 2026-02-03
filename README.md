@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 I'm Servani</h1>
 
 <p align="left">
-I'm a Computer Science student who enjoys building full-stack applications, backend systems, and ML/BCI projects.  
+I'm a Computer Science student who enjoys building full-stack applications, backend systems, and ML projects.  
 I like working on real problems, understanding how systems behave end-to-end, and learning new technologies through hands-on work.
 </p>
 
