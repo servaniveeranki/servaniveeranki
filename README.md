@@ -56,35 +56,48 @@ I enjoy solving real-world problems, designing end-to-end systems, and continuou
 
 ## ⚒️ Tech Stack
 
-### **Languages**
-- C++ · Python · Java · SQL  
-- JavaScript · TypeScript  
+### 💻 Languages
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+</p>
 
-### **Backend & Systems**
-- Node.js · Express · FastAPI · Django · REST APIs  
-- Microservices Architecture  
+### ⚙️ Backend & Systems
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
+</p>
 
-### **Frontend / Mobile**
-- React · Next.js · React Native  
-- HTML · CSS · Tailwind  
+### 🎨 Frontend / Mobile
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+</p>
 
-### **AI / ML**
-- LLMs · LangChain · RAG Pipelines  
-- NumPy · Pandas · SciPy · MNE  
+### 🧠 AI / ML
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+</p>
 
-### **Databases**
-- MongoDB · SQL · NoSQL  
+### 🗄️ Databases
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+</p>
 
-### **DevOps & Cloud**
-- Docker · CI/CD · Nginx  
-- AWS · Vercel · Render  
-
-### **Testing & Tools**
-- Jest · Git · VS Code  
-
-### **Core Concepts**
-- Data Structures & Algorithms  
-- OOPS · DBMS · OS · Computer Networks  
+### ☁️ DevOps & Cloud
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+</p>
 
 ---
 
